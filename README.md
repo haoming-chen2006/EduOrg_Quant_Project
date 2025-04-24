@@ -2,3 +2,5 @@ Data Analysis, Augmentation, and Inference done to the 20MB Datasets for Nonprof
   - Basic Analysis on Demographic information
   - Webscraping for missions of all institutions.
   - Random Forest analysis on identifying outliers
+  - Interactive plot generation and classification of outliers in major city areas.
+  - 
