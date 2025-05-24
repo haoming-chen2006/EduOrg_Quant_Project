@@ -4,6 +4,8 @@ The files include:
   - Webscraping for missions of all institutions.
   - Random Forest analysis on identifying outliers
   - Interactive plot generation and classification of outliers in major city areas.
+
+
 The results of this research includes:
   - A full table of 90000+ non profit with rich demographic information and their mission/vision statements and key words in web
   - A lot of plots that identifies various aspects of demographic information of non profits -- saved in city.plots
